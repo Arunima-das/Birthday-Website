@@ -13,6 +13,7 @@ p{
     font-size: 10px;
     line-height: 9px;
     background-image: url("media/nandu2.png");
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-clip: text;
     -webkit-text-fill-color:rgba(255,255,255,0);
